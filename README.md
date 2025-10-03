@@ -46,11 +46,12 @@ I build polished, performant products end‑to‑end—pairing thoughtful UX wit
 - <strong>Realtime Analytics Dashboard</strong> — React + FastAPI/Node.js, streaming events, crisp UX.
 - <strong>Typed REST APIs</strong> — Contract‑driven clients generated from OpenAPI with CI checks.
 
-
-
-## GitHub Summary
+### 🏆 Profile Summary
 
 <div align="center">
 
-<!-- Minimal, cohesive cards: compact languages + clean stats (no borders) -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LLallouz&theme=tokyonight&background=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" alt="Profile Summary" />
+
+</div><!-- Minimal, cohesive cards: compact languages + clean stats (no borders) -->
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?
