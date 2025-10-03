@@ -11,17 +11,24 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:22d3ee,100:a78bfa&section=header&reversal=true" alt="divider" />
+
 
 ## About
 
-I design and ship pragmatic software: crisp UX, dependable services, and measurable outcomes. My focus: clean architecture, testing, and performance—augmented with AI where it adds real value.
+I build polished, performant products end‑to‑end—pairing thoughtful UX with robust platforms. I focus on composable architectures, strong typing, testing, and pragmatic AI to amplify real user value.
 
-- **Full‑stack**: React/Next.js, TypeScript, Node.js, Golang, Laravel
-- **Backend & APIs**: Python, Django, FastAPI, REST/OpenAPI, auth, CI/CD
-- **AI/ML**: LLM apps, RAG, embeddings/vectors, evaluation and observability
+- **Product impact**: measurable outcomes, fast feedback loops, data‑driven iteration
+- **Engineering quality**: clean boundaries, observability, security, and reliability
+- **Modern stack**: React/Next.js, TypeScript, Node.js/Go, Python/Django/FastAPI
+- **Applied AI**: LLM apps, RAG, embeddings, evaluation, cost/latency discipline
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:a78bfa,100:f472b6&section=header&reversal=true" alt="divider" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Design%20Thinking-f472b6?style=flat&logo=figma&logoColor=white" alt="Design" />
+  <img src="https://img.shields.io/badge/Platform%20Engineering-a78bfa?style=flat&logo=docker&logoColor=white" alt="Platform" />
+  <img src="https://img.shields.io/badge/AI%20Systems-22d3ee?style=flat&logo=openai&logoColor=white" alt="AI" />
+</div>
+
+
 
 ## Skills
 
@@ -31,7 +38,7 @@ I design and ship pragmatic software: crisp UX, dependable services, and measura
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:f472b6,100:22d3ee&section=header&reversal=true" alt="divider" />
+
 
 ## Projects
 
@@ -39,17 +46,11 @@ I design and ship pragmatic software: crisp UX, dependable services, and measura
 - <strong>Realtime Analytics Dashboard</strong> — React + FastAPI/Node.js, streaming events, crisp UX.
 - <strong>Typed REST APIs</strong> — Contract‑driven clients generated from OpenAPI with CI checks.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:22d3ee,100:a78bfa&section=header&reversal=true" alt="divider" />
+
 
 ## GitHub Summary
 
 <div align="center">
 
 <!-- Minimal, cohesive cards: compact languages + clean stats (no borders) -->
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=LLallouz&layout=compact&langs_count=8&hide=shaderlab,hlsl,mathematica&card_width=360&bg_color=00000000&title_color=22d3ee&text_color=94a3b8" alt="Top Languages" />
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=LLallouz&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=00000000&icon_color=a78bfa&title_color=22d3ee&text_color=94a3b8&ring_color=f472b6&rank_icon=percentile" alt="Stats" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:a78bfa,100:f472b6&section=header&reversal=true" alt="divider" />
-
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?
