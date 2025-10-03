@@ -52,6 +52,6 @@ I build polished, performant products end‑to‑end—pairing thoughtful UX wit
 
 
 ### 🎯 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight&area=true&hide_border=true&radius=12&bg_color=0D1117&title_color=58A6FF&color=58A6FF&line=58A6FF&point=FF6B6B&area_color=58A6FF" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LLallouz&theme=tokyonight&area=true&hide_border=true&radius=12&bg_color=0D1117&title_color=58A6FF&color=58A6FF&line=58A6FF&point=FF6B6B&area_color=58A6FF" alt="Activity Graph" />
 
 </div>
