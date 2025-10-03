@@ -51,7 +51,7 @@ I build polished, performant products end‑to‑end—pairing thoughtful UX wit
 <div align="center">
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LLallouz&theme=tokyonight&background=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" alt="Profile Summary" />
+### 🎯 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight&area=true&hide_border=true&radius=12&bg_color=0D1117&title_color=58A6FF&color=58A6FF&line=58A6FF&point=FF6B6B&area_color=58A6FF" alt="Activity Graph" />
 
-</div><!-- Minimal, cohesive cards: compact languages + clean stats (no borders) -->
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?
+</div>
