@@ -2,11 +2,12 @@
 
 <div align="center">
 
-<!-- Animated gradient header (thin, modern) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=Israel%20—%20Senior%20Full‑Stack%20%26%20AI%20Engineer&fontAlign=50&fontAlignY=50&color=0:22d3ee,50:a78bfa,100:f472b6&fontColor=0D1117&animation=fadeIn" alt="Header" />
+<!-- Animated header (stable, ASCII-only, URL-encoded) -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a78bfa,100:f472b6&height=180&section=header&text=Israel%20-%20Senior%20Full-Stack%20%26%20AI%20Engineer&fontSize=28&animation=twinkling&fontColor=ffffff)
 
-<!-- Subheadline with subtle motion typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&duration=2200&pause=1200&center=true&vCenter=true&width=650&lines=Production‑grade+apps%2C+robust+APIs%2C+and+applied+AI.;React+%7C+Node.js+%7C+Python+%7C+Django+%7C+FastAPI+%7C+Go+%7C+Laravel;OpenAPI‑first+%7C+LLMs+%7C+RAG+%7C+Observability" alt="Typing" />
+<!-- Subheadline with reliable typing SVG (ASCII-only) -->
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=1200&center=true&vCenter=true&width=650&lines=Production-grade+apps%2C+robust+APIs%2C+and+applied+AI;React+%7C+Node.js+%7C+Python+%7C+Django+%7C+FastAPI+%7C+Go+%7C+Laravel;OpenAPI-first+%7C+LLMs+%7C+RAG+%7C+Observability)
+
 
 </div>
 
@@ -45,8 +46,8 @@ I design and ship pragmatic software: crisp UX, dependable services, and measura
 <div align="center">
 
 <!-- Minimal, cohesive cards: compact languages + clean stats (no borders) -->
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&langs_count=8&hide=shaderlab,hlsl,mathematica&card_width=360&bg_color=00000000&title_color=22d3ee&text_color=94a3b8" alt="Top Languages" />
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=00000000&icon_color=a78bfa&title_color=22d3ee&text_color=94a3b8&ring_color=f472b6&rank_icon=percentile" alt="Stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=LLallouz&layout=compact&langs_count=8&hide=shaderlab,hlsl,mathematica&card_width=360&bg_color=00000000&title_color=22d3ee&text_color=94a3b8" alt="Top Languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=LLallouz&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=00000000&icon_color=a78bfa&title_color=22d3ee&text_color=94a3b8&ring_color=f472b6&rank_icon=percentile" alt="Stats" />
 
 </div>
 
